@@ -23,9 +23,9 @@ tags:
 - Database
 - Data
 - Amazon Web Services
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/destinations/master/_listings/aws-kinesis-firehose/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/destinations/master/_listings/aws-kinesis-firehose/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: AWS Kinesis Firehose API
@@ -37,7 +37,7 @@ apis:
   tags: Destinations
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/destinations/master/_listings/aws-kinesis-firehose/action-updatedestination-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/destinations/master/_listings/aws-kinesis-firehose/action-updatedestination-get.md
 x-common:
 - type: x-console
   url: https://console.aws.amazon.com/firehose/
