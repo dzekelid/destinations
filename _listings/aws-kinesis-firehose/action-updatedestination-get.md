@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=UpdateDestination&k=1:
+  /?Action=UpdateDestination:
     get:
       summary: ' Update Destination '
       description: updates the specified destination of the specified delivery stream
