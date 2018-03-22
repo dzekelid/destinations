@@ -12,9 +12,9 @@ tags:
 - Marketplace
 - Hotel
 - Airlines
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/destinations/master/_listings/amadeus/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/destinations/master/_listings/amadeus/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Amadeus
@@ -27,7 +27,7 @@ apis:
   tags: Destinations
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/destinations/master/_listings/amadeus/travel-intelligence-top-destinations-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/destinations/master/_listings/amadeus/travel-intelligence-top-destinations-get.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/amadeus
